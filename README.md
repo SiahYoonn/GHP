@@ -25,5 +25,5 @@ just hand.py is the English to ASL portion in the ASL translator (I swear i had 
 2. Adjustments of servo angles for mimicry
 3. Slicing a string to express in order
 
-I will upload the tennis detector by tomorrow (hopefully)
+I will upload the tennis detector by this weekend (hopefully)
 
