@@ -27,7 +27,7 @@ just hand.py is the English to ASL portion in the ASL translator (I swear i had 
 3. Slicing a string to express in order
 
 In-progress works:
-1. tennis shot detector
+1. Tennis shot detector
 2. GUI to combine parts 1&2 of my ASL Translator
 3. A more optimized autonomous landing software for latency on the raspberry pi 5
 
