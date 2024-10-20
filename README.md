@@ -1,4 +1,5 @@
-Code for my GHP Portfolio
+GHP Portfolio:
+My name is Siah Yoon and I am a junior. I hope to deepen my understanding of machine learning and its real-world applications. Currently, I am working on several machine learning projects, but I heavily rely on documentation as I’m still in the learning phase. I believe that the summer program will help me take a step further and advance my knowledge and gain practical skills. I also hope to learn how machine learning can be applied to other fields of study, because its various applications always astonish me. Last year I did a presentation on AI in healthcare, so I am especially looking forward to the application of machine learning in biomedical engineering.
 I have a passion for programming/machine learning and especially in applications involving UAVs or tennis.
 I've tried out the YOLO models as well as tensorflow
 
@@ -25,5 +26,8 @@ just hand.py is the English to ASL portion in the ASL translator (I swear i had 
 2. Adjustments of servo angles for mimicry
 3. Slicing a string to express in order
 
-
+In-progress works:
+1. tennis shot detector
+2. GUI to combine parts 1&2 of my ASL Translator
+3. A more optimized autonomous landing software for latency on the raspberry pi 5
 
