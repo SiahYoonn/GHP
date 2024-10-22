@@ -30,4 +30,5 @@ In-progress works:
 1. Tennis shot detector
 2. GUI to combine parts 1&2 of my ASL Translator
 3. A more optimized autonomous landing software for latency on the raspberry pi 5
+4. Customized AI Assistant Jarvis
 
