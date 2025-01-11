@@ -39,5 +39,6 @@ Jarvis.py is a personalized assistant I developed to help me access information,
 In-progress works:
 1. Tennis shot detector & ML model to predict the type of shot (AP Research Project)
 2. A more optimized autonomous landing software for latency on the raspberry pi 5 (UAS4STEM Competition 2025)
-3. Upgrades to customized AI Assistant Jarvis 
+3. Upgrades to customized AI Assistant Jarvis
+4. Overwatch composition generator based on map, team composition, enemy composition
 
